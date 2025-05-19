@@ -43,19 +43,13 @@ Dự án này xây dựng một hệ thống dự đoán **điểm thi** của s
 
 1. Clone repository:
 ```bash
-git clone <repository-url>
-cd student-performance-prediction
+git clone BigData-Lab4---DS200
+cd BigData-Lab4---DS200
 ```
 
 2. Cài đặt các gói phụ thuộc:
 ```bash
 pip install pyspark pandas numpy tqdm
-```
-
-3. Đặt dataset:
-```bash
-mkdir -p datasets
-# Tải Student_Data.csv từ Kaggle và đặt vào thư mục datasets/
 ```
 
 ## ▶️ Cách sử dụng
